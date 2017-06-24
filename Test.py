@@ -1,1 +1,2 @@
-print 'Hello'
+#encoding:utf8
+
