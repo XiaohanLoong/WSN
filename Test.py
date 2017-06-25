@@ -6,3 +6,4 @@ for i in range(1000):
 print result
 print 'There is a bug in your code ! '
 print 'I have fixed the bug . '
+print '我在dev分支上进行一些工作，还没有完成就被叫过去修复master分支上的bug了.'
