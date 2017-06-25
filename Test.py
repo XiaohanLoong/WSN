@@ -4,5 +4,3 @@ result = 0
 for i in range(1000):
     result += i + 1
 print result
-print 'This is the dev branch.'
-print 'Use the dev branch again.'
